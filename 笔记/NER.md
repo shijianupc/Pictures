@@ -1,4 +1,4 @@
-# Learning vulnerability attributes from vulnerability databases
+# Improving the quality of vulnerability data
 
 ## Motivation:
 1. The vulnerability information in vulnerability databases is usually incomplete. Many vulnerabilities entries lack the vulnerability type. For example, in CVE-2000-0998, the vulnerability type (CWE) is missing.
